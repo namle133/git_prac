@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("KAasfas")
+	fmt.Println("NAM")
 }
